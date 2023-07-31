@@ -1,1 +1,1 @@
-{"code":410,"message":"Yandex.Translate API v1 is no longer active. Please migrate to API v1.5: https://whatsaber2.blogspot.com."}
+{"code":410,"message":"Yandex.Translate API v1 is no longer active. Ple صــابر ase migrate to API v1.5: https://whatsaber2.blogspot.com."}
